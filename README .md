@@ -25,4 +25,3 @@ Através deste recurso a Inteligência Artificial analiza textos afim de descobr
 ## Considerações Finais  
 
  Tal recurso facilita bastante o dia da dia das empresas, uma vez que possibilita saber de forma ágil e simples o sentimento dos clientes no que dis respeito aos seus produtos, o que eles mais gostaram, menos gostaram e a possibilidade de voltarem a consumir o produto ou serviço, possibilitando assim a reação rápida por parte da empresa.
-
